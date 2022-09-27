@@ -1,0 +1,26 @@
+#header{
+    background: url("assets/header.jpg");
+    min-height: 75vh;
+    background-size: cover;
+}
+
+.box-matter1{
+    background: url("assets/blue1.jpg");
+    min-height: 300px;
+    background-size: cover;
+}
+.box-matter2{
+    background: url("assets/blue2.jpg");
+    min-height: 300px;
+    background-size: cover;
+}
+
+.box-chalengging{
+    height: 150px;
+}
+
+#news-header{
+    background: url("assets/header.jpg");
+    min-height: 75vh;
+    background-size: cover;
+}
